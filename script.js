@@ -130,7 +130,7 @@ document.addEventListener('DOMContentLoaded', function () {
           mood: 'happy',
           genre: 'animasi',
           title: 'Wall-E',
-          img: 'https://i.pinimg.com/736x/f2/5b/e0/f25be05af79802b72455b7b34cc80e6d.jpg',
+          img: 'https://i.pinimg.com/474x/05/da/c6/05dac6f36c7b9451403e033fbbecc590.jpg',
           age_rating: '10',
         },
         {
@@ -258,7 +258,7 @@ document.addEventListener('DOMContentLoaded', function () {
           mood: 'happy',
           genre: 'animasi',
           title: 'Wall-E',
-          img: 'https://i.pinimg.com/736x/f2/5b/e0/f25be05af79802b72455b7b34cc80e6d.jpg',
+          img: 'https://i.pinimg.com/474x/05/da/c6/05dac6f36c7b9451403e033fbbecc590.jpg',
           age_rating: '10',
         },
         {
